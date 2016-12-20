@@ -1,4 +1,4 @@
-# Basic-Stack-in-C-
+# Basic-Stack-in-Cpp
 Basic Stack implementation in C++
 - Create Stack
 - Delete Stack
